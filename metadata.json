@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق الساري للبث الارضي - نظام توليد الباركود",
+  "description": "تطبيق الساري للبث الأرضي لاستيراد الأرقام من Excel وتوليد وتصوير رموز الباركود أوتوماتيكياً.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
